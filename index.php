@@ -134,7 +134,7 @@ include('./includes/pages/header.php');
 </container>
 <footer>
     <p>
-        <?php include('./includes/pages/footer.php'); ?>
+        <?php include('includes/pages/footer.php'); ?>
     </p>
 </footer>
 </body>

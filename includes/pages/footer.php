@@ -3,7 +3,8 @@
 </script>
 <!-- <script href="includes/format/script.js"></script> -->
 <p>&copy;
-    <img src="./includes/images/rose_Logo_22.png" alt="Yfkes logo" style="width: 70px">
+    <img src="/includes/images/rose_Logo_22.png" alt="Yfkes logo" style="width: 70px">
+
     <hr /p>
     </footer>
     </body>
